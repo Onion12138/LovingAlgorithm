@@ -2,13 +2,13 @@
 恋上算法，Java版算法面试题解大全集
 
 # 目录
-![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/A.png)
-![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/B.png)
-![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/C.png)
-![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/D.png)
-![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/E.png)
-![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/F.png)
-![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/G.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/blob/master/A.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/blob/master/B.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/blob/master/C.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/blob/master/D.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/blob/master/E.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/blob/master/F.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/blob/master/G.png)
 # 第二版前言
 
 ​		相比于2018年第一版，第二版产生了以下更新。
