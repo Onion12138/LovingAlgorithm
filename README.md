@@ -2,13 +2,13 @@
 恋上算法，Java版算法面试题解大全集
 
 # 目录
-(A.png)
-(B.png)
-(C.png)
-(D.png)
-(E.png)
-(F.png)
-(G.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/A.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/B.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/C.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/D.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/E.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/F.png)
+![image](https://github.com/Onion12138/LovingAlgorithm/edit/master/G.png)
 # 第二版前言
 
 ​		相比于2018年第一版，第二版产生了以下更新。
@@ -39,11 +39,11 @@
 
 # 参考资料
 
-参考了如下视频课程（带*为特别鸣谢）
+参考了如下视频课程（带\*为特别鸣谢）
 
 - 左程云《算法进阶课》
 
-- liuyubobobo*《玩转数据结构》《图论算法精讲》《玩转算法面试》《看得见的算法》
+- liuyubobobo\*《玩转数据结构》《图论算法精讲》《玩转算法面试》《看得见的算法》
 
 - 小象学院 《BAT Leetcode算法面试》
 
@@ -51,7 +51,7 @@
 
 参考了如下博客与书籍
 
-- labuladong的算法小抄*
+- labuladong的算法小抄\*
 - Leetcode与牛客网题解
 - 左程云《程序员代码面试指南》
 - 王道《计算机考研上机指南》
