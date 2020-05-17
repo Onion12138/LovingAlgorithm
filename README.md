@@ -2,13 +2,13 @@
 恋上算法，Java版算法面试题解大全集
 
 # 目录
-![目录](/A.png)
-![目录](/B.png)
-![目录](/C.png)
-![目录](/D.png)
-![目录](/E.png)
-![目录](/F.png)
-![目录](/G.png)
+![photo](A.png)
+![photo](B.png)
+![photo](C.png)
+![photo](D.png)
+![photo](E.png)
+![photo](F.png)
+![photo](G.png)
 # 第二版前言
 
 ​		相比于2018年第一版，第二版产生了以下更新。
